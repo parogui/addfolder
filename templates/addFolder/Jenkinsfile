@@ -1,3 +1,6 @@
+ parameters {
+          string(defaultValue: true, description: '', name: 'folderName')
+    }
 /*
 This adds a folder.
 Because we have jobs with the same name as the environments, this code also renames
