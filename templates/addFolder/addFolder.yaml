@@ -1,0 +1,9 @@
+version: 1
+type: pipeline-template
+
+name: addFolder
+description: Simple Java App With Maven
+parameters:
+  - name: folderName
+    type: string
+    displayName: Folder name
