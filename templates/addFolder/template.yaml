@@ -2,7 +2,7 @@ version: 1
 type: pipeline-template
 
 name: addFolder
-description: Simple Java App With Maven
+description: Crear carpeta
 parameters:
   - name: folderName
     type: string
